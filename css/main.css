@@ -3,7 +3,7 @@
 	font-family: 'karla', sans-serif;
 }.footer,
 .header {
-	background: #ABA0CB;
+	background: black;
 	color: white;
 }
 .ctas-button {
@@ -172,11 +172,11 @@ p.paragraph {
 	height: 42px;
 	line-height: 38px;
 	padding: 0 30px;
-	background: #fff;
+	background: black;
 	border-radius: 3px;
 	font-size: 15px;
 	font-weight: 600;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	letter-spacing: .3px;
 	border: 1px solid white;
 	text-decoration: none;
